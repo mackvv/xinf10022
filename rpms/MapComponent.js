@@ -40,7 +40,7 @@ const MapComponent = ({ location }) => {
       }
 
       const script = document.createElement('script');
-      script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyDJWvoPpu8FKxqUhx1YFertAXmkDc3rlt0`;
+      script.src = `https://maps.googleapis.com/maps/api/js?key=****************`;
       script.async = true;
       script.defer = true;
       script.onload = initializeMap;
