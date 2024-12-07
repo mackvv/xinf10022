@@ -14,7 +14,7 @@ import MapComponent from './MapComponent';
 import HeartRateChart from './HeartRateChart';
 import axios from 'axios';
 
-const GOOGLE_API_KEY = 'AIzaSyDJWvoPpu8FKxqUhx1YFertAXmkDc3rlt0';
+const GOOGLE_API_KEY = '"***********************",';
 const screenWidth = Dimensions.get('window').width;
 
 const HeartRateDisplay = () => {
