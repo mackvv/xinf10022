@@ -7,12 +7,12 @@
 #include <time.h>
 
 // ------------------- USER CONFIG -------------------
-const char* ssid = "MACKENZIE1";
-const char* password = "2%wR0050";
+const char* ssid = "*********";
+const char* password = "**********";
 
 // Firebase credentials
-#define DATABASE_URL "https://rpms-hr-default-rtdb.firebaseio.com/"
-#define DATABASE_SECRET "y8X0MZwbL6kphTptKr9eLnMPLHhkUi1YBszCT3Sk"
+#define DATABASE_URL "**********";
+#define DATABASE_SECRET "**********";
 
 
 // ------------------- GLOBAL OBJECTS ----------------
